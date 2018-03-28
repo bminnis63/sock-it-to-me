@@ -1,7 +1,7 @@
 # Sock It To Me
 
 Who wants socks at TrailheaDX 2018?
-
+Ben Minnis
 ![QR Code to this repo](https://goo.gl/eoho2z.qr)
 
 Just submit a pull request :smile:
